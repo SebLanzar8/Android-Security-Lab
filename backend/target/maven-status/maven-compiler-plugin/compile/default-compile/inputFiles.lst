@@ -1,0 +1,17 @@
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/repositories/MessageRepository.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/RequestLoggingFilterConfig.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/controller/MessageController.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/repositories/ConversationRepository.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/controller/ConversationController.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/repositories/UserRepository.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/Login.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/dbStructure/Conversation.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/Application.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/controller/LoginController.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/repositories/UserRepositoryImpl.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/MVCConfig.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/dbStructure/User.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/controller/UserController.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/dbStructure/Message.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/repositories/UserRepositoryCustom.java
+/home/tortora23/Documents/javaLAb/gs-rest-service/complete/src/main/java/hello/RequestInterceptor.java

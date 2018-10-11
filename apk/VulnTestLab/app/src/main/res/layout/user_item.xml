@@ -1,0 +1,30 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:stretchColumns="1">
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/delUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="deleteUser"
+            android:text="Cancella" />
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <Button
+            android:id="@+id/modifyUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="modifyUser"
+            android:text="Modifica" />
+
+    </TableRow>
+
+</TableLayout>
